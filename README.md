@@ -5,15 +5,12 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Funt1337/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Modica <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **HuoLaLa**
-- 🌱 I’m currently learning **NLP**
-- 👯 Currently working in **ShenZhen, China**
-- 🤔 I love **Reading, photography**
+
 - 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: **wf18684531169@gmail.com**
-- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86)
+- 📫 How to reach me: **cheng1337hacker@gmail.com**
+- 😄 You may like [My Website](www.neverhit.club)
 - ⚡ Fun fact: **LOL, Movie**
 
 # About My Github
