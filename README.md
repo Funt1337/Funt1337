@@ -13,8 +13,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Funt1337/count.svg) visito
 - 😄 You may like [My Website](www.neverhit.club)
 - ⚡ Fun fact: **LOL, Movie**
 
-# About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Funt1337)](https://github.com/Funt1337/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funt1337&show_icons=true&theme=tokyonight)
 
