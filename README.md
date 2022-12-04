@@ -18,7 +18,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Funt1337/count.svg) visito
 
 - 💬 Ask me about Deep Learning, Python and my projects
 - 📫 How to reach me: **cheng1337hacker@gmail.com**
-- 😄 You may like [My Website](www.neverhit.club)
+- 😄 You may like [My Website](neverhit.club)
 - ⚡ Fun fact: **LOL, Movie**
 
 
